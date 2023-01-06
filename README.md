@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nabin Acharya</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h1 align="center">Hi, I'm Nabin Acharya</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabin-8&label=Profile%20views&color=0e75b6&style=flat" alt="nabin-8" /> </p>
 
@@ -12,8 +11,7 @@
 - 📫 How to reach me **nabinacharya740@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@codearchitecture/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codearchitecture/featured" height="30" width="40" /></a>
+<p align="https://www.youtube.com/@codearchitecture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codearchitecture/featured" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
