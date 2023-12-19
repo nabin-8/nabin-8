@@ -4,8 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development, Kotlin**
+- 🌱 I’m currently learning **MERN, linux**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C**
+- 💬 Ask me about **HTML, CSS, JavaScript, C, Android Development**
 
 - 📫 How to reach me **nabinacharya740@gmail.com**
