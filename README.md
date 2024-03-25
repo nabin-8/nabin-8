@@ -9,6 +9,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, C, Android Development**
 
 - 📫 How to reach me **nabinacharya740@gmail.com**
+- [8-mini Project](https://nabin-8.github.io/8-Mini-Projects/)
 
 ### Languages, Tools, Frameworks and Databases:
 
