@@ -8,8 +8,9 @@
 |2.|[React Ecommerce](https://react-ecommerce-six-sigma.vercel.app/)|
 |3.|[My-Portfolio](https://www.anabin.com.np/)|
 |4.|[JS-PROJECTS](https://nabin-8.github.io/JS-PROJECTS/)|
-|5.|[Restaurant-website](https://nabin-8.github.io/Restaurant-website/)|
-|6.|[8-mini Project](https://nabin-8.github.io/8-Mini-Projects/)|
+|5.|[HTML CSS Project](https://nabin-8.github.io/HTML-CSS-Projects/)|
+|6.|[Restaurant-website](https://nabin-8.github.io/Restaurant-website/)|
+
 
 #### Current Stack :
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongo"/>](https://react.dev/)
